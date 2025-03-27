@@ -1,0 +1,32 @@
+---
+title: "Posner Task Presentation"
+format: revealjs
+---
+
+<section data-autoslide="2000" data-state="center">
+  <h1>The Posner Cueing Task</h1>
+  <h3>A Presentation by</h3>
+  <h2>Alexandra, Caleb, Brooke, and Cahli</h2>
+</section>
+
+## The Posner Task
+The **Posner Task** is a psychological experiment that investigates attention and reaction times.  
+- Developed by Michael Posner in 1980.  
+- Participants focus on a central fixation point.  
+- A **cue** appears to indicate where a stimulus (**target**) might appear.  
+- The goal is to measure how cues influence attention and response speed.  
+
+## What is a Cue?
+A **cue** is a visual or auditory signal that directs attention.  
+- In the Posner Task, a cue typically appears before the target.  
+- Types of cues:  
+  - **Valid Cue**: Correctly indicates the target's location.  
+  - **Invalid Cue**: Misleads by indicating the wrong location.  
+  - **Neutral Cue**: Provides no location information.  
+
+## What is a Target?
+A **target** is the stimulus that participants must detect or respond to.  
+- Appears after the cue.  
+- Can be a shape, letter, or symbol. 
+- In this case, we used an arrow.  
+- Reaction time differences between **valid** and **invalid** cues reveal how attention is directed.  

@@ -28,5 +28,5 @@ A **cue** is a visual or auditory signal that directs attention.
 A **target** is the stimulus that participants must detect or respond to.  
 - Appears after the cue.  
 - Can be a shape, letter, or symbol. 
-- In this case, we used an arrow.  
+- In this case, we used a grey box.  
 - Reaction time differences between **valid** and **invalid** cues reveal how attention is directed.  
